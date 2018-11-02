@@ -9,10 +9,18 @@ body {
 	color: #000000;
 	background-color: #424242;
 
+	background: #1D976C;  
+    background: -webkit-linear-gradient(to right, #93F9B9, #1D976C);  
+    background: linear-gradient(to right, #93F9B9, #1D976C); 
+
+/*
 	background: #F8D353;
 	background: -webkit-linear-gradient(top left, #F8D353, #FF5C5A);
 	background: -moz-linear-gradient(top left, #F8D353, #FF5C5A);
 	background: linear-gradient(top left, #F8D353, #FF5C5A);
+	
+
+
 
 /*	background: #B0D09C;
 	background: -webkit-linear-gradient(top left, #B0D09C, #4B8244);
