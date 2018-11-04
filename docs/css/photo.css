@@ -12,9 +12,10 @@
 
 .instafeed {
 	width: 620px;
-	height: 620px;
+	height: 620px; 
+	border-radius: 7px;
 	overflow: hidden;
-	transition: opacity 1s ease-in, box-shadow 3s ease-in;
+	transition: opacity 1.5s ease-in, box-shadow 3s ease-in;
 	opacity: 0;
 }
 
